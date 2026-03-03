@@ -82,7 +82,7 @@ The [journal](JOURNAL.md) contains each day's work, logged, with the aid of imag
 > The BOM is split into the different companies from which the components would be bought, with an empty line delimiting them. As well as this, at the end of each section, the total price for that provider, along with the shipping, is provided in the **Price** column. There is also the total price in the aforementioned column on the last row.
 
 > [!NOTE]\
-> I found the promo code **KBDNEWS** for Mechboards (a UK-based merchant) 5% off so I included that in the BOM as well to explain the decrease in total price.
+> I found the promo code **KBDNEWS** and **KEEBFINDER5** for Mechboards (a UK-based merchant) 5% off so I included that in the BOM as well to explain the decrease in total price.
 
 <details closed>
 <summary>BOM in table format</summary>
